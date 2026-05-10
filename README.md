@@ -90,9 +90,14 @@ Arquivo: [`aula-06-atividades/cadastro_usuario.py`](aula-06-atividades/cadastro_
 *(Em breve)*
 
 #### ▶️ Execução
-![Output Aula 06](aula-06-atividades/aula06-output.png)
 
-*(Em breve)*
+![Output Aula 06 - Parte 1](aula-06-atividades/aula06-output.png)
+
+Output mostrando os testes de login Google OAuth com os cenários de sucesso e erro.
+
+![Output Aula 06 - Parte 2](aula-06-atividades/aula06-output2.png)
+
+Output mostrando os 4 cenários de cadastro de usuário: e-mail válido, inválido, duplicado e sem confirmação.
 
 ---
 
