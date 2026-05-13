@@ -33,7 +33,7 @@ Arquivo: [`aula-03-requisitos/gymtrack_validador.py`](aula-03-requisitos/gymtrac
 O código implementa o sistema **GymTrack**, um validador de treinos de academia. Foram aplicados 3 Requisitos Funcionais (RF01: validação do nome do exercício, RF02: peso entre 1 e 300kg, RF03: repetições entre 1 e 50) e 1 Requisito Não-Funcional (RNF01: tempo de registro inferior a 200ms). O exercício demonstra na prática a diferença entre *o que* o sistema faz (RF) e *como* ele deve se comportar (RNF).
 
 #### ▶️ Execução
-![Output Aula 03](aula03-output.png)
+![Output Aula 03](aula-03-requisitos/aula03-output.png)
 
 O output exibe as validações de RF e RNF com sucesso: o sistema aceita os dados do exercício "Supino Reto" (80kg, 10 repetições) e registra a série em 52ms, dentro do limite de 200ms estipulado pelo RNF01.
 
