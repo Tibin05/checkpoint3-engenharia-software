@@ -86,6 +86,7 @@ O código implementa dois fluxos baseados nos diagramas: Login com Google OAuth 
 
 #### ▶️ Execução
 ![Output Aula 06](aula-06-atividades/aula06-output.png)
+![Output Aula 06](aula-06-atividades/aula06-output2.png)
 
 O output mostra os 4 cenários de teste: e-mail válido e confirmado (sucesso), e-mail inválido (erro de formato), e-mail já cadastrado (duplicidade) e confirmação não realizada (cadastro expirado).
 
